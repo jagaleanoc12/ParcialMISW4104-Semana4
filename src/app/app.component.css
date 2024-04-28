@@ -1,0 +1,13 @@
+.indie-flower-regular {
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.header {
+    font-size: 36px;
+    text-shadow: 0 4px 4px #00000040;
+}
+.seperator {
+    border-top: 1px solid #0000001e;
+    height: 1px;
+}
