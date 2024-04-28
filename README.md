@@ -1,27 +1,24 @@
-# ParcialMISW4104Semana4
+# Parcial de la semana 4 de la materia _Conceptos básicos de ingeniería de software para la web_
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.4.
+Desarrollado por: Jose Antonio Galeano Cardenas (ja.galeanoc12@uniandes.edu.co)
 
-## Development server
+## Instrucciones
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+[Ver en dropbox](https://www.dropbox.com/s/omqrr8b29ybxkbu/Parcial_Grupo3.docx?e=11&dl=0)
 
-## Code scaffolding
+## Requisitos
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- node v18
 
-## Build
+## Instrucciones de ejecucion
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Abrir la consola de comandos de su equipo
+- Ir al directorio en donde esta descargado este repositorio
+- Ejecutar `npm install` para descargar e instalar las dependencias necesarias
+- Ejecutar `ng serve`
+- Por defecto el enlace es `http://localhost:4200/`, aunque confirme en la salida del comando ejecutado en el paso anterior.
+- En su navegador de preferencia dirijase al enlace del paso anterior.
 
-## Running unit tests
+## Pruebas
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Ejecute `ng test` para ejecutar las pruebas unitarias por medio de [Karma](https://karma-runner.github.io).
