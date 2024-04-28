@@ -8,7 +8,7 @@ Desarrollado por: Jose Antonio Galeano Cardenas (ja.galeanoc12@uniandes.edu.co)
 
 ## Requisitos
 
-- node v18
+- node v18 o superior
 
 ## Instrucciones de ejecución
 
