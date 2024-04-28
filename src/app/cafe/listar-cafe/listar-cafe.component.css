@@ -1,0 +1,19 @@
+* {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+.table-nonfluid {
+    width: auto !important;
+    max-width: 100% !important;
+}
+thead.table-dark th {
+    background-color: #333A40;
+    font-size: 18px;
+}
+thead.table-dark th, tbody td {
+    padding: 0.75rem;
+}
+.row-id {
+    width: 44px;
+}
